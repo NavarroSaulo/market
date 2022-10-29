@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "market",
+      "database": "${workspaceFolder:market}/mydb.sqlite"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
